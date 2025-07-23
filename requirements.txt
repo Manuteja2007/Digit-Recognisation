@@ -1,2 +1,4 @@
-Flask numpy Pillow
+Flask
+numpy
+Pillow
 tensorflow

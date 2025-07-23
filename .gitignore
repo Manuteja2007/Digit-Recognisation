@@ -1,0 +1,8 @@
+flaskenv/
+__pycache__/
+*.pyc
+*.pyd
+*.h5
+*.tflite
+.DS_Store
+*.ipynb_checkpoints/
